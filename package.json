@@ -1,0 +1,23 @@
+{
+  "name": "wx-storage",
+  "version": "1.0.0",
+  "description": "Catch the exception of wechat minprogram storage API automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1sm23/wx-storage.git"
+  },
+  "keywords": [
+    "wxapp",
+    "wechat-miniprogram"
+  ],
+  "author": "1sm23",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1sm23/wx-storage/issues"
+  },
+  "homepage": "https://github.com/1sm23/wx-storage#readme"
+}
