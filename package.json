@@ -1,6 +1,6 @@
 {
   "name": "wx-storage",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Catch the exception of wechat minprogram storage API automatically",
   "main": "index.js",
   "scripts": {
